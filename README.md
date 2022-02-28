@@ -32,4 +32,3 @@
   
    ![Snake animation](https://github.com/brunobouwman/brunobouwman/blob/output/github-contribution-grid-snake.svg)
   
-<!--   ![Snake animation]https://github.com/brunobouwman -->
