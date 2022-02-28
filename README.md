@@ -1,4 +1,10 @@
 ### Hi there 👋
+
+- 🔭 I’m currently studying Electrical and Computer Engineering at ISEP
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on front-end projects
+- 📫 How to reach me: brunofbouwman@gmail.com
+
 ##
 <div align="center">
 <a href="https://github.com/brunobouwman">
@@ -26,7 +32,3 @@
   
   
 <!--   ![Snake animation]https://github.com/brunobouwman -->
-- 🔭 I’m currently studying Electrical and Computer Engineering at ISEP
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on front-end projects
-- 📫 How to reach me: brunofbouwman@gmail.com
