@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying Electrical and Computer Engineering at ISEP
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on front-end projects
+- 👨‍💻 Frontend Jr. Developer at Klever
+- 🔭 Currently studying Electrical and Computer Engineering at ISEP
 - 📫 How to reach me: brunofbouwman@gmail.com
 
 ##
