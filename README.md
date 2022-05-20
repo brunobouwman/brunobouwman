@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 Frontend Jr. Developer at Klever
+- 👨‍💻 Frontend Developer at Klever
 - 🔭 Currently studying Electrical and Computer Engineering at ISEP
 - 📫 How to reach me: brunofbouwman@gmail.com
 
