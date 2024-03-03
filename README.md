@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 Frontend Developer at Klever
-- 🔭 Currently studying Electrical and Computer Engineering at ISEP
+- 👨‍💻 Blockchain Developer at CEIIA
 - 📫 How to reach me: brunofbouwman@gmail.com
 
 ##
