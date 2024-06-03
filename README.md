@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 Blockchain Engineer at CEIIA
+- 👨‍💻 Full-stack Developer at Holonym
 - 📫 How to reach me: brunofbouwman@gmail.com
 
 ##
